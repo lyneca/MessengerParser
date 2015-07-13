@@ -49,7 +49,7 @@ def plural(i):
 
 months = {
     'january': 1,
-    'febuary': 2,
+    'february': 2,
     'march': 3,
     'april': 4,
     'may': 5,
